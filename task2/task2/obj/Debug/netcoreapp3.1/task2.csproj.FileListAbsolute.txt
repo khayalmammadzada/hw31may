@@ -1,0 +1,13 @@
+/Users/khayalmammadzada/Desktop/newfolder/task2/task2/bin/Debug/netcoreapp3.1/task2.deps.json
+/Users/khayalmammadzada/Desktop/newfolder/task2/task2/bin/Debug/netcoreapp3.1/task2.runtimeconfig.json
+/Users/khayalmammadzada/Desktop/newfolder/task2/task2/bin/Debug/netcoreapp3.1/task2.runtimeconfig.dev.json
+/Users/khayalmammadzada/Desktop/newfolder/task2/task2/bin/Debug/netcoreapp3.1/task2.dll
+/Users/khayalmammadzada/Desktop/newfolder/task2/task2/bin/Debug/netcoreapp3.1/task2.pdb
+/Users/khayalmammadzada/Desktop/newfolder/task2/task2/obj/Debug/netcoreapp3.1/task2.csproj.AssemblyReference.cache
+/Users/khayalmammadzada/Desktop/newfolder/task2/task2/obj/Debug/netcoreapp3.1/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khayalmammadzada/Desktop/newfolder/task2/task2/obj/Debug/netcoreapp3.1/task2.AssemblyInfoInputs.cache
+/Users/khayalmammadzada/Desktop/newfolder/task2/task2/obj/Debug/netcoreapp3.1/task2.AssemblyInfo.cs
+/Users/khayalmammadzada/Desktop/newfolder/task2/task2/obj/Debug/netcoreapp3.1/task2.csproj.CoreCompileInputs.cache
+/Users/khayalmammadzada/Desktop/newfolder/task2/task2/obj/Debug/netcoreapp3.1/task2.dll
+/Users/khayalmammadzada/Desktop/newfolder/task2/task2/obj/Debug/netcoreapp3.1/task2.pdb
+/Users/khayalmammadzada/Desktop/newfolder/task2/task2/obj/Debug/netcoreapp3.1/task2.genruntimeconfig.cache
